@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747623501467",
+    "firebase_url": "https://flash-chat-d921d.firebaseio.com",
+    "project_id": "flash-chat-d921d",
+    "storage_bucket": "flash-chat-d921d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747623501467:android:9f7ceb749813c60d9dc03e",
+        "android_client_info": {
+          "package_name": "co.cricket.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747623501467-nu8thk3q8338bq02ju9r0o6olbco1qrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsjdwvFqMDF8KysfVxKdF3orXf9nx3XIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747623501467-nu8thk3q8338bq02ju9r0o6olbco1qrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
